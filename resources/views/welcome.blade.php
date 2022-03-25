@@ -1,3 +1,7 @@
 <x-layouts.default>
-    Your content goes here...
+    <x-slot:title>
+        Dashboard
+        </x-slot>
+
+        Your content goes here...
 </x-layouts.default>
